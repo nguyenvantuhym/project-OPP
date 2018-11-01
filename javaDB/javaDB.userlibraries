@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="forms-1.0.5">
+    <archive path="C:/Users/Admin/Desktop/javaDB/src/ScrollableJPopupmenu/forms-1.0.5.jar" />
+  </library>
+  <library name="forms-1.0.51">
+    <archive path="C:/Users/Admin/Desktop/javaDB/out/production/javaDB/ScrollableJPopupmenu/forms-1.0.5.jar" />
+  </library>
+  <library name="javaDB">
+    <archive path="C:/Users/Admin/Desktop/javaDB/mysql-connector-java-5.1.40-bin.jar" />
+    <archive path="C:/Users/Admin/Desktop/javaDB/mysql-connector-java-5.1.40.zip" />
+    <archive path="C:/Users/Admin/Desktop/javaDB/java-google-speech-api-V2.1.jar" />
+    <archive path="C:/Users/Admin/Desktop/javaDB/jlayer-1.0.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
